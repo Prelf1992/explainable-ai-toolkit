@@ -1079,3 +1079,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_2: Test: Refactor code in workflow to support new requirements. at 2023-01-05 16:25:09
 * Commit 2023_3: Style: Add new feature script for better maintainability. at 2023-01-05 15:34:20
 * Commit 2023_4: CI: Add new feature data model for faster execution. at 2023-01-05 14:37:42
+* Commit 2023_5: CI: Refactor code in README for better readability. at 2023-01-06 09:02:38
