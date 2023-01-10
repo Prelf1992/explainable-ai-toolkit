@@ -1083,3 +1083,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_6: Style: Update build config data model to ensure stability. at 2023-01-06 15:50:34
 * Commit 2023_7: CI: Add tests for script to align with standards. at 2023-01-06 13:01:09
 * Commit 2023_8: Fix: Configure CI for workflow to ensure stability. at 2023-01-10 12:43:37
+* Commit 2023_9: Build: Improve styling of README to resolve issue. at 2023-01-10 16:46:35
