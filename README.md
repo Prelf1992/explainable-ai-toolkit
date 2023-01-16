@@ -1091,3 +1091,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_14: Chore: Clean up module for faster execution. at 2023-01-13 13:35:10
 * Commit 2023_15: Fix: Add new feature script to support new requirements. at 2023-01-13 11:54:52
 * Commit 2023_16: Style: Update documentation for module to resolve issue. at 2023-01-13 13:57:09
+* Commit 2023_17: Chore: Fix bug in API to improve user experience. at 2023-01-16 11:41:43
