@@ -1184,3 +1184,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_107: Feat: Update build config data model for better maintainability. at 2023-03-27 10:47:50
 * Commit 2023_108: Fix: Fix bug in data model to resolve issue. at 2023-03-27 17:55:58
 * Commit 2023_109: Feat: Update documentation for tests for faster execution. at 2023-03-28 13:19:06
+* Commit 2023_110: Fix: Clean up tests for better readability. at 2023-03-29 15:25:32
