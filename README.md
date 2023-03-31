@@ -1189,3 +1189,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_112: Fix: Refactor code in dependencies to enhance functionality. at 2023-03-29 14:35:31
 * Commit 2023_113: Feat: Configure CI for script to resolve issue. at 2023-03-29 17:28:02
 * Commit 2023_114: Chore: Add tests for API to resolve issue. at 2023-03-30 09:30:57
+* Commit 2023_115: CI: Update documentation for API to improve user experience. at 2023-03-31 14:05:18
