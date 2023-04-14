@@ -1204,3 +1204,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_127: Feat: Fix bug in dependencies to support new requirements. at 2023-04-12 11:20:04
 * Commit 2023_128: Perf: Improve styling of database for faster execution. at 2023-04-12 13:49:49
 * Commit 2023_129: Test: Configure CI for UI to support new requirements. at 2023-04-12 16:56:34
+* Commit 2023_130: Refactor: Update build config API to improve user experience. at 2023-04-14 10:27:15
