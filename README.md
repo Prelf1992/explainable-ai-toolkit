@@ -1212,3 +1212,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_135: Docs: Clean up component to enhance functionality. at 2023-04-17 16:03:31
 * Commit 2023_136: Chore: Add new feature database to align with standards. at 2023-04-17 14:39:51
 * Commit 2023_137: Docs: Configure CI for UI to align with standards. at 2023-04-17 14:25:38
+* Commit 2023_138: Docs: Add tests for component for better readability. at 2023-04-18 14:36:43
