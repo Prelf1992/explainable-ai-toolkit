@@ -1275,3 +1275,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_198: Perf: Update build config utility to ensure stability. at 2023-05-23 11:19:04
 * Commit 2023_199: Build: Improve styling of workflow to align with standards. at 2023-05-23 14:45:16
 * Commit 2023_200: Perf: Update documentation for tests to align with standards. at 2023-05-24 12:09:49
+* Commit 2023_201: Chore: Update documentation for script to align with standards. at 2023-05-24 12:40:46
