@@ -1390,3 +1390,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2023_313: Build: Improve styling of workflow to improve user experience. at 2023-08-21 11:16:39
 * Commit 2023_314: Style: Configure CI for README to ensure stability. at 2023-08-21 11:24:17
 * Commit 2023_315: Style: Update documentation for API to support new requirements. at 2023-08-21 11:37:22
+* Commit 2023_316: Build: Clean up script to ensure stability. at 2023-08-21 11:13:47
