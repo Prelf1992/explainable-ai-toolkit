@@ -697,3 +697,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_119: Style: Clean up tests to improve user experience. at 2024-04-05 14:32:17
 * Commit 2024_120: Chore: Add tests for script to ensure stability. at 2024-04-05 14:12:38
 * Commit 2024_121: Refactor: Refactor code in tests to improve user experience. at 2024-04-05 11:45:59
+* Commit 2024_122: Docs: Improve styling of module to improve user experience. at 2024-04-05 11:43:08
