@@ -828,3 +828,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2024_250: Test: Update documentation for tests to align with standards. at 2024-06-25 16:41:31
 * Commit 2024_251: Feat: Configure CI for UI for better maintainability. at 2024-06-25 11:00:00
 * Commit 2024_252: Style: Optimize performance of script to support new requirements. at 2024-06-26 12:36:12
+* Commit 2024_253: CI: Refactor code in UI for better readability. at 2024-06-26 17:06:21
