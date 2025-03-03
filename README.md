@@ -194,3 +194,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 116: Refactor: Refactor code in dependencies for better readability. at 2025-02-28 10:31:45
 * Commit 117: Refactor: Update documentation for tests to improve user experience. at 2025-02-28 15:34:18
 * Commit 118: Style: Add tests for workflow for better maintainability. at 2025-03-03 14:41:43
+* Commit 119: Docs: Clean up API to improve user experience. at 2025-03-03 11:30:39
