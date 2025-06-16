@@ -306,3 +306,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 228: Chore: Improve styling of UI to improve user experience. at 2025-06-13 13:59:00
 * Commit 229: Chore: Clean up script to ensure stability. at 2025-06-13 15:22:47
 * Commit 230: Fix: Clean up tests to support new requirements. at 2025-06-16 09:47:35
+* Commit 231: Docs: Clean up README to align with standards. at 2025-06-16 16:49:50
