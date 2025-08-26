@@ -372,3 +372,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 294: Refactor: Improve styling of script for faster execution. at 2025-08-25 12:52:51
 * Commit 295: Docs: Clean up database for better readability. at 2025-08-25 10:37:02
 * Commit 296: Docs: Update documentation for component for better maintainability. at 2025-08-25 15:32:43
+* Commit 297: Chore: Update documentation for tests for better readability. at 2025-08-26 14:24:26
