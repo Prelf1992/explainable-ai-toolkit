@@ -382,3 +382,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 304: Fix: Clean up API to ensure stability. at 2025-08-29 17:50:36
 * Commit 305: Build: Clean up tests to align with standards. at 2025-09-01 16:14:47
 * Commit 306: Build: Fix bug in utility to ensure stability. at 2025-09-01 16:56:40
+* Commit 307: Docs: Add tests for component to improve user experience. at 2025-09-02 17:58:59
