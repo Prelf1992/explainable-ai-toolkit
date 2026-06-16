@@ -1810,3 +1810,4 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 * Commit 2026_233: Docs: Update documentation for workflow to improve user experience. at 2026-06-11 13:26:39
 * Commit 2026_234: Fix: Add tests for workflow to align with standards. at 2026-06-12 13:18:38
 * Commit 2026_235: Docs: Add tests for algorithm to support new requirements. at 2026-06-16 10:59:20
+* Commit 2026_236: Refactor: Clean up README to improve user experience. at 2026-06-16 12:34:16
